@@ -1,0 +1,4 @@
+ini adalah sebuah teks yang dirancang untuk dibaca melalui program yang dibuat 
+untuk tujuan pembelajaran,
+ini hanya sekedar contoh saja.
+file ini jangan dihapus
